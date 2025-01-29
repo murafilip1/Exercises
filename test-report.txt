@@ -1,0 +1,901 @@
+=== RAPORT TESTU LINKÓW ===
+Strona testowana: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna
+
+Liczba znalezionych linków: 302
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna#bodyContent
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Specjalna:Losowa_strona
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Portal:Kategorie_G%C5%82%C3%B3wne
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Wyr%C3%B3%C5%BCniona_zawarto%C5%9B%C4%87_Wikipedii
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Pomoc:FAQ
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:O_Wikipedii
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Kontakt_z_wikipedystami
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Pomoc:Pierwsze_kroki
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Portal_wikipedyst%C3%B3w
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Tablica_og%C5%82osze%C5%84
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Zasady
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Pomoc:Spis_tre%C5%9Bci
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Specjalna:Ostatnie_zmiany
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Specjalna:Szukaj
+Status HTTP: 200
+
+Sprawdzanie linku: https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=pl.wikipedia.org&uselang=pl
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/w/index.php?title=Specjalna:Utw%C3%B3rz_konto&returnto=Wikipedia%3AStrona+g%C5%82%C3%B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/w/index.php?title=Specjalna:Zaloguj&returnto=Wikipedia%3AStrona+g%C5%82%C3%B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=pl.wikipedia.org&uselang=pl
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/w/index.php?title=Specjalna:Utw%C3%B3rz_konto&returnto=Wikipedia%3AStrona+g%C5%82%C3%B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/w/index.php?title=Specjalna:Zaloguj&returnto=Wikipedia%3AStrona+g%C5%82%C3%B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Pomoc:Pierwsze_kroki
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Specjalna:M%C3%B3j_wk%C5%82ad
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Specjalna:Moja_dyskusja
+Status HTTP: 200
+
+Sprawdzanie linku: https://ar.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://bn.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://be.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://be-tarask.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://bg.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://bs.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://br.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://ca.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://cs.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://da.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://de.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://dsb.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://et.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://el.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://en.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://es.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://eo.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://eu.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://fa.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://fr.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://gl.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://ko.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://hy.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://hsb.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://hr.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://io.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://id.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://is.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://it.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://he.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://ka.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://csb.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://kk.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://la.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://lb.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://lt.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://hu.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://mk.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://ms.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://nl.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://ja.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://no.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://nn.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://pt.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://ro.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://ru.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://simple.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://sk.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://sl.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://szl.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://sr.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://sh.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://fi.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://sv.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://te.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://th.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://tr.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://uk.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://vi.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://zh.wikipedia.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Dyskusja_Wikipedii:Strona_g%C5%82%C3%B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&action=edit
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&action=history
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&action=edit
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&action=history
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Specjalna:Linkuj%C4%85ce/Wikipedia:Strona_g%C5%82%C3%B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Specjalna:Zmiany_w_linkowanych/Wikipedia:Strona_g%C5%82%C3%B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Prze%C5%9Blij_plik
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Specjalna:Strony_specjalne
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&oldid=74345099
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&action=info
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/w/index.php?title=Specjalna:Skr%C3%B3%C4%87_adres_URL&url=https%3A%2F%2Fpl.wikipedia.org%2Fwiki%2FWikipedia%3AStrona_g%25C5%2582%25C3%25B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/w/index.php?title=Specjalna:Kod_QR&url=https%3A%2F%2Fpl.wikipedia.org%2Fwiki%2FWikipedia%3AStrona_g%25C5%2582%25C3%25B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/w/index.php?title=Specjalna:Ksi%C4%85%C5%BCka&bookcmd=book_creator&referer=Wikipedia%3AStrona+g%C5%82%C3%B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/w/index.php?title=Specjalna:DownloadAsPdf&page=Wikipedia%3AStrona_g%C5%82%C3%B3wna&action=show-download-screen
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&printable=yes
+Status HTTP: 200
+
+Sprawdzanie linku: https://commons.wikimedia.org/wiki/Main_Page
+Status HTTP: 200
+
+Sprawdzanie linku: https://foundation.wikimedia.org/wiki/Home
+Status HTTP: 200
+
+Sprawdzanie linku: https://www.mediawiki.org/wiki/MediaWiki
+Status HTTP: 200
+
+Sprawdzanie linku: https://meta.wikimedia.org/wiki/Main_Page
+Status HTTP: 200
+
+Sprawdzanie linku: https://outreach.wikimedia.org/wiki/Main_Page
+Status HTTP: 200
+
+Sprawdzanie linku: https://wikisource.org/wiki/Main_Page
+Status HTTP: 200
+
+Sprawdzanie linku: https://species.wikimedia.org/wiki/Main_Page
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikibooks.org/wiki/Wikibooks:Strona_g%C5%82%C3%B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://www.wikidata.org/wiki/Wikidata:Main_Page
+Status HTTP: 200
+
+Sprawdzanie linku: https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page
+Status HTTP: 200
+
+Sprawdzanie linku: https://wikimania.wikimedia.org/wiki/Wikimania
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikinews.org/wiki/Strona_g%C5%82%C3%B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikiquote.org/wiki/Strona_g%C5%82%C3%B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikisource.org/wiki/Wiki%C5%BAr%C3%B3d%C5%82a:Strona_g%C5%82%C3%B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikivoyage.org/wiki/Strona_g%C5%82%C3%B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wiktionary.org/wiki/Wikis%C5%82ownik:Strona_g%C5%82%C3%B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://www.wikidata.org/wiki/Special:EntityPage/Q5296
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wolna_tre%C5%9B%C4%87
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Encyklopedia
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Pomoc:Pierwsze_kroki
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Liczba_artyku%C5%82%C3%B3w_w_polskoj%C4%99zycznej_Wikipedii
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Wyr%C3%B3%C5%BCniona_zawarto%C5%9B%C4%87_Wikipedii
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Portal:Kategorie_G%C5%82%C3%B3wne
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Kategoria:Nauki_%C5%9Bcis%C5%82e
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Kategoria:Nauki_przyrodnicze
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Kategoria:Nauki_spo%C5%82eczne
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Kategoria:Nauki_humanistyczne
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Kategoria:Technika
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Kategoria:Filozofia
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Kategoria:Historia
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Kategoria:Kultura
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Kategoria:Sztuka
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Kategoria:Religioznawstwo
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Kategoria:Gospodarka
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Kategoria:Spo%C5%82ecze%C5%84stwo
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Kategoria:Sport
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Kategoria:Polska
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Kategoria:Biografie
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Specjalna:Nowe_strony
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Plik:Tithrone_roseipennis_MHNT_femelle_vol.jpg
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Acanthopidae
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Photinaidae
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Porostnica_podomka
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Pseudopogonogaster
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Nanomantidae
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Amorphoscelidae
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Photinainae
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Cardioptera
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Macromantis
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikiprojekt:Czy_wiesz/propozycje
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Pomoc:Jak_napisa%C4%87_nowy_artyku%C5%82
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Inwazja_Rosji_na_Ukrain%C4%99
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wojna_Izraela_z_Hamasem
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Protesty_po_wyborach_parlamentarnych_w_Gruzji_(od_2024)
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Inwazja_Izraela_na_Syri%C4%99_(od_2024)
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Protesty_na_S%C5%82owacji_(2025)
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Plik:John_Sykes_Vauhtiajot_2008.jpg
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/John_Sykes_(gitarzysta)
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Milo%C5%A1_Vu%C4%8Devi%C4%87
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Protesty_w_Serbii_(od_2024)
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Stycze%C5%84_2025
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Donald_Trump
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/J.D._Vance
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Stycze%C5%84_2025
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Po%C5%BCary_w_Kalifornii_(2025)
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Kalifornia
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Stycze%C5%84_2025
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Daniel_Tschofenig
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/73._Turniej_Czterech_Skoczni
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Stycze%C5%84_2025
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/The_Beverly_Hilton
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Beverly_Hills
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/82._ceremonia_wr%C4%99czenia_Z%C5%82otych_Glob%C3%B3w
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Stycze%C5%84_2025
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Zmarli_w_styczniu_2025
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Greg_Bell
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Dra%C5%BEen_Dalipagi%C4%87
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Marcin_Wicha
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Mauricio_Funes
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/John_Sykes_(gitarzysta)
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Bertrand_Blier
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Punsalmaagijn_Oczirbat
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Didier_Guillaume
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Barbara_Szacka
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Martin_Pollack
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Jacques_Guittet
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/David_Lynch
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Rosny_Smarth
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Jeannot_Szwarc
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Portal:Aktualno%C5%9Bci
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/29_stycznia
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Imieniny
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Aniela
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Boles%C5%82awa
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Zdzis%C5%82aw
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Chi%C5%84ski_Nowy_Rok
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/T%E1%BA%BFt
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Plik:Chekhov_by_serov.jpg
+Status HTTP: 200
+
+Sprawdzanie linku: https://commons.wikimedia.org/wiki/File:Chekhov_by_serov.jpg
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/1655
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wojna_polsko-rosyjska_(1654%E2%80%931667)
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Bitwa_pod_Ochmatowem_(1655)
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/1845
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Kruk_(wiersz)
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Edgar_Allan_Poe
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/1860
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Anton_Czechow
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Walentin_Sierow
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Literatura_rosyjska
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Mewa_(dramat)
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Trzy_siostry
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wi%C5%9Bniowy_sad
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/1955
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Jan_Pospieszalski
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Okr%C4%85glak_(Pozna%C5%84)
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/1965
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Dominik_Ha%C5%A1ek
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/28_stycznia
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Kalendarium_dzie%C5%84_po_dniu
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/30_stycznia
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Plik:Basshunter_logo_(black).svg
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Dyskografia_Basshuntera
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/The_Bassmachine
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/LOL_(album_Basshuntera)
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Now_You%E2%80%99re_Gone_%E2%80%93_The_Album
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Bass_Generation
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Calling_Time
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Dyskografia_Basshuntera
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Artyku%C5%82y_na_Medal
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Listy_na_Medal
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Pomoc:Jak_napisa%C4%87_doskona%C5%82y_artyku%C5%82
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Meitei_Leepun
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Indie
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Manipur
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Leishemba_Sanajaoba
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Nacjonalizm
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Chrze%C5%9Bcija%C5%84stwo
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Meitei_Leepun
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Dobre_Artyku%C5%82y
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Pomoc:Styl_%E2%80%93_poradnik_dla_autor%C3%B3w
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Plik:Herb_Polski.svg
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/God%C5%82o_Polski
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Ilustracje_na_Medal
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Pomoc:Ilustrowanie
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikisource.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wiktionary.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://commons.wikimedia.org/wiki/Strona_g%C5%82%C3%B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://www.wikidata.org/wiki/Wikidata:Strona_g%C5%82%C3%B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikinews.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://species.wikimedia.org/wiki/Strona_g%C5%82%C3%B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikibooks.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikiquote.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikivoyage.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://beta.wikiversity.org/wiki/Strona_G%C5%82%C3%B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://www.wikifunctions.org/wiki/
+Status HTTP: 200
+
+Sprawdzanie linku: https://wikimediafoundation.org/
+Status HTTP: 200
+
+Sprawdzanie linku: https://wikimedia.pl/
+Status HTTP: 200
+
+Sprawdzanie linku: https://meta.wikimedia.org/wiki/Strona_g%C5%82%C3%B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Spo%C5%82eczno%C5%9B%C4%87_wikipedyst%C3%B3w
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Pomoc:Przewodnicy
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Administratorzy
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Kontakt_z_wikipedystami
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna/Wczoraj
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna/Jutro
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna/Dokumentacja
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&oldid=74345099
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Kategoria:Strona_g%C5%82%C3%B3wna
+Status HTTP: 200
+
+Sprawdzanie linku: https://creativecommons.org/licenses/by-sa/4.0/deed.pl
+Status HTTP: 200
+
+Sprawdzanie linku: https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pl
+Status HTTP: 200
+
+Sprawdzanie linku: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:O_Wikipedii
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Korzystasz_z_Wikipedii_tylko_na_w%C5%82asn%C4%85_odpowiedzialno%C5%9B%C4%87
+Status HTTP: 200
+
+Sprawdzanie linku: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+Status HTTP: 200
+
+Sprawdzanie linku: https://developer.wikimedia.org/
+Status HTTP: 200
+
+Sprawdzanie linku: https://stats.wikimedia.org/#/pl.wikipedia.org
+Status HTTP: 200
+
+Sprawdzanie linku: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.m.wikipedia.org/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&mobileaction=toggle_view_mobile
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna#
+Status HTTP: 200
+
+Sprawdzanie linku: https://wikimediafoundation.org/
+Status HTTP: 200
+
+Sprawdzanie linku: https://www.mediawiki.org/
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna#
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna#
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna#
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna#
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna#
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna#
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna#
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna#
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna#
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna#
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna#
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna#
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna#
+Status HTTP: 200
+
+Sprawdzanie linku: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna#
+Status HTTP: 200
+
