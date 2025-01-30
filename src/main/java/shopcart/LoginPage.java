@@ -20,7 +20,7 @@ public class LoginPage {
 
     public void logIn(String username, String password) {
         wait.until(ExpectedConditions.visibilityOf(userNameInput)).sendKeys(username);
-       wait.until(ExpectedConditions.visibilityOf(passwordInput)).sendKeys(password);
+        wait.until(ExpectedConditions.visibilityOf(passwordInput)).sendKeys(password);
         loginButton.click();
 
     }
