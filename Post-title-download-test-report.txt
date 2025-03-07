@@ -1,0 +1,17 @@
+=== RAPORT TESTU POBIERANIA TYTUŁÓW POSTÓW ===
+Strona testowana: https://www.zyte.com/blog/
+
+1. Most Recent
+2. Beyond Hello World: The Operational Gaps in LLM-Powered Scraping Tools
+3. Faster and cheaper: How AI is breaking barriers in web data sourcing
+4. Essential insights for developers to lead in 2025
+5. Web Data Extract Summit 2024: What Did You Miss?
+6. Leveraging Web Scraping and Big Data: The New Frontier in Optimized Delivery Solutions
+7. Build or Buy? Solving the web scraping dilemma
+8. Inside Zyte's System Design Process: How We Build Scalable, Reliable Solutions
+9. A Deep Dive into Zyte's Open-Source Libraries
+10. Analyze web data quickly with Jupyter Notebooks and Zyte API
+11. Overcoming web scraping challenges of Puppeteer and Playwright
+12. JSON Parsing with Python [Practical Guide]
+13. Designing a fair and predictable pricing model for Web Scraping APIs
+14. Get the latest posts straight to your inbox
