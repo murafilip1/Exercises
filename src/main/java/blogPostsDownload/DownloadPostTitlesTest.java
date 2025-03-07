@@ -36,7 +36,6 @@ public class DownloadPostTitlesTest {
 
         options.addArguments("--disable-blink-features=AutomationControlled");
         options.addArguments("--disable-infobars");
-        options.addArguments("user-data-dir=C:\\Users\\m_fil\\AppData\\Local\\Google\\Chrome\\User Data"); // Używa zapisanych ustawień cookies
 
     }
 
