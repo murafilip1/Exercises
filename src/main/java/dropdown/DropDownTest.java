@@ -1,4 +1,4 @@
-package alerts;
+package dropdown;
 
 import org.junit.After;
 import org.junit.Before;
@@ -8,10 +8,12 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.util.concurrent.TimeUnit;
 
-public class AlertsTest {
-    private static WebDriver driver;
+public class DropDownTest {
+
+    private WebDriver driver;
 
     MainPage mainPage;
+
 
     @Before
     public void setUp() {
@@ -19,20 +21,17 @@ public class AlertsTest {
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
-        driver.get("https://the-internet.herokuapp.com/javascript_alerts");
+        driver.get("https://the-internet.herokuapp.com/dropdown");
         mainPage = new MainPage(driver);
+
     }
 
     @Test
-    public void checkJsAlert() {
-        mainPage.verifyJsAlert();
+    public void dropDownMenuTest() {
+        mainPage.isDropDownMenuDisplayed();
+        mainPage.chooseOptionOneFromDropDownMenu();
+        mainPage.chooseOptionTwoFromDropDownMenu();
     }
-
-    @Test
-    public void checkPromptAlert() {
-        mainPage.verifyPromptAlert();
-    }
-
 
     @After
     public void quit() {
@@ -40,5 +39,6 @@ public class AlertsTest {
             driver.quit();
         }
     }
+
 
 }
